@@ -54,8 +54,8 @@ const askQuizSelection = async () => {
         },
         {
             question: "Q 2. Quran Pak ke kes (Juz) me Surah Juma hy?",
-            choices: ["26 Juz" ,"28 Juz","20 Juz"],
-            answer: "28 Para"
+            choices: ["26 JUZ" ,"28 JUZ","20 JUZ"],
+            answer: "28 JUZ"
         },
         {
             question: "Q 3. Quran Pak ke 30 (Juz) me kul ktni Surah hin?",
@@ -65,7 +65,7 @@ const askQuizSelection = async () => {
         {
             question: "Q 4. Quran Pak ke wo kon se Surah hy, jo Nabi nahi hin?",
             choices: ["Hazrat Younus(A.S)", "Hazrat lout(A.S)", "Hazrat Luqman(A.S)"],
-            answer: "Hazrat Luqman"
+            answer: "Hazrat Luqman(A.S)"
         },
         {
             question: "Q 5. Quran Pak me kes Nabi ke Name par Surah nhi hy laken un ka name Quran Pak me bar bar aya hy?",
